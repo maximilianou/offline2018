@@ -6,3 +6,12 @@ body{
   background-color: midnightblue;
   color: white;
 }
+li{
+   list-style-type: none;
+}
+.panel{
+  display: inline-block;
+  border-radius: 10px;
+  padding: 10px;
+  background-color: blue;
+}
